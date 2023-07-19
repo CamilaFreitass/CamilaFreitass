@@ -1,4 +1,4 @@
-### Desenvolvedora Back-end 	👩‍💼 💻
+### Desenvolvedora Back end 	👩‍💼 💻
 
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
