@@ -1,9 +1,10 @@
-### Oie!! Eu sou a Camila Freitas estudante de Análise e Desenvolvimento de Sistemas 🤗
+### Desenvolvedora Back-end 	👩‍💼 💻
 
 
-
-- 🔭 Atualmente estou buscando desafios voltados para back-end
-- 🌱 Estudando Python
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 🐍 Estudando Python
+- 👩‍💻 Construindo meus próprios projetos
+- 🚀 Buscando novos desafios
 
 <div align="center">
   <a href="https://github.com/CamilaFreitass">
