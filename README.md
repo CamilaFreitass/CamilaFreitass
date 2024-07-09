@@ -1,7 +1,7 @@
 ### Programadora	👩‍💼 💻
 
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 🎓 Formada Análise e Desenvolvimento de Sistemas
 - 🐍 Estudando Python
 - 👩‍💻 Construindo meus próprios projetos
 - 🚀 Buscando novos desafios
